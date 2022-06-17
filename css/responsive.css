@@ -1,0 +1,179 @@
+@media (max-width: 575.98px){
+
+    .common_h3 {
+        font-size: 18px;
+    }
+    .common_pera{
+        font-size: 14px;
+    }
+    .common_heading {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .section_top .common_pera {
+        width: auto;
+    }
+    /* header part css */
+    #full_header .navbar {
+        background: url(../images/header-bg.png) no-repeat center / cover;
+        padding: 0px 15px;
+    }
+    #full_header .navbar-brand img{
+        width: 70px;
+    }
+    #full_header .navbar-toggler-icon{
+        color: var(--secondary-color);
+        line-height: 1.5rem;
+        font-size: 18px;
+    }
+    #full_header .header_right span {
+        display: inline-block;
+        padding-bottom: 13px;
+        margin-left: 10px;
+    }
+    /* header part css end */
+
+    /* banner part css start */
+    #banner_part .carousel-item .carousel-caption {
+        text-align: center;
+    }
+    #banner_part .carousel-item .carousel-caption {
+        left: 15%;
+    }
+    #banner_part .carousel-item h1 {
+        font-size: 48px;
+    }
+    #banner_part .carousel-item h3 {
+        font-size: 25px;
+    }
+    .main_btn {
+        font-size: 14px;
+        padding: 5px 25px;
+    }
+    /* banner part css end */
+    /* feature part start */
+    #feature_part .feature_item {
+        margin-bottom: 15px;
+    }
+    /* feature part end */
+    /* about part start */
+    #about_part .about_item h2 {
+        font-size: 31px;
+        margin-bottom: 10px;
+    }
+    /* about part end */
+    /* product part start */
+    #product_part .product_item{
+        margin-bottom: 15px;
+    }
+    /* product part end */
+
+
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    .common_h3 {
+        font-size: 18px;
+    }
+    .common_pera{
+        font-size: 14px;
+    }
+    .common_heading {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .section_top .common_pera {
+        width: auto;
+    }
+    /* header part css */
+    #full_header .navbar {
+        background: url(../images/header-bg.png) no-repeat center / cover;
+        padding: 5px 15px;
+    }
+    #full_header .navbar-brand img{
+        width: 70px;
+    }
+    #full_header .navbar-toggler-icon{
+        color: var(--secondary-color);
+        line-height: 1.5rem;
+        font-size: 18px;
+    }
+    #full_header .header_right span {
+        display: inline-block;
+        padding-bottom: 13px;
+        margin-left: 10px;
+    }
+    /* header part css end */
+
+    /* banner part css start */
+    #banner_part .carousel-item .carousel-caption {
+        text-align: center;
+    }
+    #banner_part .carousel-item .carousel-caption {
+        left: 15%;
+    }
+    #banner_part .carousel-item p {
+        width: auto;
+    }
+    .main_btn {
+        font-size: 14px;
+        padding: 5px 25px;
+    }
+    /* banner part css end */
+    /* feature part start */
+    #feature_part .feature_item {
+        margin-bottom: 15px;
+    }
+    /* feature part end */
+    /* about part start */
+    #about_part .about_item h2 {
+        font-size: 31px;
+        margin-bottom: 10px;
+    }
+    /* about part end */
+    /* product part start */
+    #product_part .product_item{
+        margin-bottom: 15px;
+    }
+    /* product part end */
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    #full_header .navbar {
+        background: url(../images/header-bg.png) no-repeat center / cover;
+        padding: 0px 25px;
+    }
+    #full_header .navbar-brand img {
+        height: 30px;
+    }
+    #full_header .navbar .nav-link {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+    #full_header .header_right span {
+        display: inline;
+        font-size: 14px;
+    }
+    #full_header .header_right .phone_number {
+        font-size: 16px;
+    }
+
+    /* header part end */
+    #feature_part .feature_item {
+        margin-bottom: 20px;
+    }
+    #product_part .product_item {
+        margin-bottom: 20px;
+    }
+    #testimonial .testi_content {
+        padding: 16px;
+    }
+    #testimonial .testi_content .common_pera {
+        font-size: 12px;
+    }
+    #testimonial .testi_content h3 {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    #testimonial .testi_content h6 {
+        font-size: 16px;
+    }
+}
